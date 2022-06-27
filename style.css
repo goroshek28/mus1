@@ -1,0 +1,55 @@
+body {
+	background-image: url("https://oir.mobi/uploads/posts/2021-03/1616971232_56-p-temnii-fon-dlya-rabochego-stola-59.jpg");
+	max-height: 500px;
+	margin: 0px;
+}
+
+h1 {
+	text-align: center;
+	color: #B0E0E6;
+	text-shadow: 3px 3px 10px #00008B;
+	position: absolute;
+	left: 20%;
+}
+
+.logo {
+	height: 100px;
+	width: 100px;
+	margin: 0px;
+	margin-bottom: 18px;
+	margin-left: 15px;
+}
+
+header {
+	background-color: rgba(0, 191, 255, 0.8);
+	margin-bottom: 20px;
+}
+
+h2 {
+	color: white;
+}
+
+article {
+	margin-top: 15px;
+	background-color: rgba(127, 255, 212, 0.8);
+	width: 300px;
+	text-align: center;
+	padding: 10px;
+	
+}
+
+img {
+	height: 200px;
+	width: 300px;
+}
+
+section {
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding-bottom: 20px;
+}
+
+a {
+	text-decoration: none;
+}
